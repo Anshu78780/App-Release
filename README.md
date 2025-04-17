@@ -1,7 +1,7 @@
 # ScreenScape
 
 <p align="center">
-  <img src="assets/logo.png" alt="ScreenScape Logo" width="200"/>
+  <img src="https://krzsjuzfhhqhesldytnk.supabase.co/storage/v1/object/public/ss//WhatsApp%20Image%202025-04-17%20at%2018.08.50_9cd019cf.jpg" alt="ScreenScape Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -71,37 +71,37 @@
 ### Home Screen
 <!-- Add Home Screen Screenshot Here -->
 <p align="center">
-  <img src="screenshots/home_screen.jpg" alt="Home Screen" width="300"/>
+  <img src="https://krzsjuzfhhqhesldytnk.supabase.co/storage/v1/object/public/ss//WhatsApp%20Image%202025-04-17%20at%2018.07.07_5757ce76.jpg" alt="Home Screen" width="300"/>
 </p>
 
 ### Content Details
 <!-- Add Content Details Screenshot Here -->
 <p align="center">
-  <img src="screenshots/content_details.jpg" alt="Content Details" width="300"/>
+  <img src="https://krzsjuzfhhqhesldytnk.supabase.co/storage/v1/object/public/ss//WhatsApp%20Image%202025-04-17%20at%2018.07.08_299ce9c1.jpg" alt="Content Details" width="300"/>
 </p>
 
 ### Video Player
 <!-- Add Video Player Screenshot Here -->
 <p align="center">
-  <img src="screenshots/video_player.jpg" alt="Video Player" width="300"/>
+  <img src="https://krzsjuzfhhqhesldytnk.supabase.co/storage/v1/object/public/ss//WhatsApp%20Image%202025-04-17%20at%2018.07.09_a15f5d58.jpg" alt="Video Player" width="300"/>
 </p>
 
 ### Downloads Section
 <!-- Add Downloads Screenshot Here -->
 <p align="center">
-  <img src="screenshots/downloads.jpg" alt="Downloads" width="300"/>
+  <img src="https://krzsjuzfhhqhesldytnk.supabase.co/storage/v1/object/public/ss//WhatsApp%20Image%202025-04-17%20at%2018.07.08_8ba7d78a.jpg" alt="Downloads" width="300"/>
 </p>
 
 ### Provider Selection
 <!-- Add Provider Selection Screenshot Here -->
 <p align="center">
-  <img src="screenshots/providers.jpg" alt="Provider Selection" width="300"/>
+  <img src="https://krzsjuzfhhqhesldytnk.supabase.co/storage/v1/object/public/ss//WhatsApp%20Image%202025-04-17%20at%2018.07.08_8ba7d78a.jpg" alt="Provider Selection" width="300"/>
 </p>
 
 ### Settings
 <!-- Add Settings Screenshot Here -->
 <p align="center">
-  <img src="screenshots/settings.jpg" alt="Settings" width="300"/>
+  <img src="https://krzsjuzfhhqhesldytnk.supabase.co/storage/v1/object/public/ss//WhatsApp%20Image%202025-04-17%20at%2018.16.19_d2044fec.jpg" alt="Settings" width="300"/>
 </p>
 
 ## Installation
