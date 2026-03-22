@@ -17,7 +17,7 @@
 
 ### 🚀 Quick Links
 
-[Features](#-features) • [Platforms](#-available-platforms) • [Screenshots](#-screenshots) • [Installation](#-installation) • [API](#-api-integration) • [FAQ](#-faq)
+[Features](#-features) • [Platforms](#-available-platforms) • [Screenshots](#-screenshots) • [Installation](#-installation) • [API](#-api-integration) • [Embed Links](#-embed-links) • [FAQ](#-faq)
 
 </div>
 
@@ -29,29 +29,35 @@ ScreenScape is available across multiple platforms to ensure you can enjoy your 
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="Images/Web.png" alt="Web App" width="80"/><br/>
       <b>🌐 Web App</b><br/>
       <a href="https://screenscape.me/">screenscape.me</a><br/>
       <sub>Access from any browser</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="Images/logo.png" alt="Android App" width="80"/><br/>
       <b>📱 Android App</b><br/>
-      <a href="#installation">Download APK</a><br/>
+      <a href="https://screenscape.fun">Download APK</a><br/>
       <sub>Full mobile experience</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="Images/Tv.png" alt="TV App" width="80"/><br/>
       <b>📺 TV App</b><br/>
       <a href="https://github.com/Anshu78780/screenscapetv/">GitHub Repo</a><br/>
       <sub>Big screen entertainment</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="Images/API.png" alt="API" width="80"/><br/>
       <b>🔌 Developer API</b><br/>
       <a href="https://screenscapeapi.dev/">screenscapeapi.dev</a><br/>
       <sub>Build your own apps</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="Images/Embed.png" alt="Embed Links" width="80"/><br/>
+      <b>🔗 Embed Links</b><br/>
+      <a href="https://screenscape.me/embed">Get Embed Code</a><br/>
+      <sub>Integrate into websites</sub>
     </td>
   </tr>
 </table>
@@ -103,6 +109,7 @@ ScreenScape is available across multiple platforms to ensure you can enjoy your 
 - **Android**: Full mobile experience with downloads
 - **TV**: Optimized for big screen viewing
 - **API**: Build your own integrations
+- **Embed**: Integrate player into your website
 
 ### 🛠️ Customization Options
 - Personalize app appearance with themes
@@ -253,6 +260,88 @@ fetch('https://screenscapeapi.dev/api/search?query=inception')
 
 ---
 
+## 🔗 Embed Links
+
+ScreenScape provides embeddable video players that you can integrate directly into your website or application.
+
+<div align="center">
+  <img src="Images/Embed.png" alt="Embed Player" width="600"/>
+</div>
+
+### Embed Features
+
+- � **Direct Video Embedding**: Embed any movie or TV show episode
+- 🎨 **Customizable Player**: Match your website's design
+- 📱 **Responsive Design**: Works on all screen sizes
+- ⚡ **Fast Loading**: Optimized for performance
+- 🔒 **Secure**: HTTPS support for all embeds
+- 🌐 **Cross-Platform**: Works on any website or CMS
+
+### How to Get Embed Links
+
+1. **Find Content**: Search for any movie or TV show on ScreenScape
+2. **Get Embed Code**: Click the "Embed" button on the content page
+3. **Copy Code**: Copy the provided iframe code
+4. **Paste**: Add it to your website's HTML
+
+### Example Embed Code
+
+```html
+<!-- Basic Embed -->
+<iframe 
+  src="https://screenscape.me/embed/movie/12345" 
+  width="100%" 
+  height="500" 
+  frameborder="0" 
+  allowfullscreen
+  allow="autoplay; encrypted-media">
+</iframe>
+
+<!-- Responsive Embed -->
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe 
+    src="https://screenscape.me/embed/movie/12345" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0" 
+    allowfullscreen
+    allow="autoplay; encrypted-media">
+  </iframe>
+</div>
+```
+
+### Customization Options
+
+You can customize the embed player with URL parameters:
+
+```
+https://screenscape.me/embed/movie/12345?autoplay=1&controls=1&theme=dark
+```
+
+**Available Parameters:**
+- `autoplay=1` - Auto-start playback
+- `controls=1` - Show/hide player controls
+- `theme=dark|light` - Player theme
+- `quality=auto|1080p|720p|480p` - Default quality
+- `subtitle=en` - Default subtitle language
+
+### Use Cases
+
+- 📰 **News & Blogs**: Embed trailers and clips in articles
+- 🎓 **Educational Sites**: Add educational content
+- 🎮 **Gaming Sites**: Embed game trailers and reviews
+- 📺 **Entertainment Portals**: Create your own streaming site
+- 💼 **Business Sites**: Showcase video content
+
+### Best Practices
+
+1. Always use responsive embed code for mobile compatibility
+2. Test embeds on different devices and browsers
+3. Respect content licensing and usage rights
+4. Use appropriate quality settings for your audience
+5. Enable autoplay only when appropriate
+
+---
+
 ## 🎯 Recommended Providers
 
 For the best experience, we recommend these providers:
@@ -386,6 +475,14 @@ Please visit [screenscapeapi.dev](https://screenscapeapi.dev/) for detailed info
 - **Android App**: Full features including downloads
 - **TV App**: Optimized for big screen viewing
 - **API**: For developers building custom applications
+- **Embed Links**: For website owners wanting to integrate content
+
+</details>
+
+<details>
+<summary><b>How do I get embed links for my website?</b></summary>
+
+Navigate to any content on ScreenScape, click the "Embed" button, and copy the provided iframe code. See the [Embed Links](#-embed-links) section for detailed instructions and customization options.
 
 </details>
 
