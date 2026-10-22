@@ -8,7 +8,7 @@
 
 *Stream, Download, and Enjoy Movies, TV Shows, Anime, and Live Sports*
 
-[![Web App](https://img.shields.io/badge/🌐_Web_App-screenscape.me-blue?style=for-the-badge)](https://screenscape.me/)
+[![Web App](https://img.shields.io/badge/🌐_Web_App-screenscape.me-blue?style=for-the-badge)](https://web.screenscape.fun/)
 [![API](https://img.shields.io/badge/🔌_API-screenscapeapi.dev-green?style=for-the-badge)](https://screenscapeapi.dev/)
 [![TV App](https://img.shields.io/badge/📺_TV_App-GitHub-red?style=for-the-badge)](https://github.com/Anshu78780/screenscapetv/)
 [![Android](https://img.shields.io/badge/📱_Android-Download-orange?style=for-the-badge)](#installation)
@@ -32,7 +32,7 @@ ScreenScape is available across multiple platforms to ensure you can enjoy your 
     <td align="center" width="20%">
       <img src="Images/Web.png" alt="Web App" width="80"/><br/>
       <b>🌐 Web App</b><br/>
-      <a href="https://screenscape.me/">screenscape.me</a><br/>
+      <a href="https://web.screenscape.fun/">screenscape.me</a><br/>
       <sub>Access from any browser</sub>
     </td>
     <td align="center" width="20%">
@@ -56,7 +56,7 @@ ScreenScape is available across multiple platforms to ensure you can enjoy your 
     <td align="center" width="20%">
       <img src="Images/Embed.png" alt="Embed Links" width="80"/><br/>
       <b>🔗 Embed Links</b><br/>
-      <a href="https://screenscape.me/embed">Get Embed Code</a><br/>
+      <a href="https://web.screenscape.fun/embed">Get Embed Code</a><br/>
       <sub>Integrate into websites</sub>
     </td>
   </tr>
@@ -218,7 +218,7 @@ ScreenScape is available across multiple platforms to ensure you can enjoy your 
 
 ### Web App
 
-Simply visit [**screenscape.me**](https://screenscape.me/) from any modern web browser. No installation required!
+Simply visit [**screenscape.me**](https://web.screenscape.fun/) from any modern web browser. No installation required!
 
 ### TV App
 
@@ -289,7 +289,7 @@ ScreenScape provides embeddable video players that you can integrate directly in
 ```html
 <!-- Basic Embed -->
 <iframe 
-  src="https://screenscape.me/embed/movie/12345" 
+  src="https://web.screenscape.fun/embed/movie/12345" 
   width="100%" 
   height="500" 
   frameborder="0" 
@@ -300,7 +300,7 @@ ScreenScape provides embeddable video players that you can integrate directly in
 <!-- Responsive Embed -->
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
   <iframe 
-    src="https://screenscape.me/embed/movie/12345" 
+    src="https://web.screenscape.fun/embed/movie/12345" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     frameborder="0" 
     allowfullscreen
@@ -314,7 +314,7 @@ ScreenScape provides embeddable video players that you can integrate directly in
 You can customize the embed player with URL parameters:
 
 ```
-https://screenscape.me/embed/movie/12345?autoplay=1&controls=1&theme=dark
+https://web.screenscape.fun/embed/movie/12345?autoplay=1&controls=1&theme=dark
 ```
 
 **Available Parameters:**
@@ -516,7 +516,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 📞 Support & Community
 
-- 🌐 **Website**: [screenscape.me](https://screenscape.me/)
+- 🌐 **Website**: [screenscape.me](https://web.screenscape.fun/)
 - 🔌 **API Docs**: [screenscapeapi.dev](https://screenscapeapi.dev/)
 - 📺 **TV App**: [GitHub Repository](https://github.com/Anshu78780/screenscapetv/)
 - 🐛 **Issues**: [Report Bugs](https://github.com/YourUsername/App-release/issues)
@@ -544,7 +544,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Download Now** | **Visit Web App** | **Explore API** | **Get TV App**
 
-[![Web](https://img.shields.io/badge/Web-screenscape.me-blue)](https://screenscape.me/)
+[![Web](https://img.shields.io/badge/Web-screenscape.me-blue)](https://web.screenscape.fun/)
 [![API](https://img.shields.io/badge/API-screenscapeapi.dev-green)](https://screenscapeapi.dev/)
 [![TV](https://img.shields.io/badge/TV-GitHub-red)](https://github.com/Anshu78780/screenscapetv/)
 
