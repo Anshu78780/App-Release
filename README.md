@@ -8,7 +8,7 @@
 
 *Stream, Download, and Enjoy Movies, TV Shows, Anime, and Live Sports*
 
-[![Web App](https://img.shields.io/badge/🌐_Web_App-screenscape.me-blue?style=for-the-badge)](https://web.screenscape.fun/)
+[![Web App](https://img.shields.io/badge/🌐_Web_App-web.screenscape.fun-blue?style=for-the-badge)](https://web.screenscape.fun/)
 [![API](https://img.shields.io/badge/🔌_API-screenscapeapi.dev-green?style=for-the-badge)](https://screenscapeapi.dev/)
 [![TV App](https://img.shields.io/badge/📺_TV_App-GitHub-red?style=for-the-badge)](https://github.com/Anshu78780/screenscapetv/)
 [![Android](https://img.shields.io/badge/📱_Android-Download-orange?style=for-the-badge)](#installation)
@@ -32,7 +32,7 @@ ScreenScape is available across multiple platforms to ensure you can enjoy your 
     <td align="center" width="20%">
       <img src="Images/Web.png" alt="Web App" width="80"/><br/>
       <b>🌐 Web App</b><br/>
-      <a href="https://web.screenscape.fun/">screenscape.me</a><br/>
+      <a href="https://web.screenscape.fun/">web.screenscape.fun</a><br/>
       <sub>Access from any browser</sub>
     </td>
     <td align="center" width="20%">
